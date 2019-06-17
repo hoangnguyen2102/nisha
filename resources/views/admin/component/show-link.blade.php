@@ -1,0 +1,1 @@
+<a href="{{ $link }}" class="btn btn-success">@lang('label.Show')</a>

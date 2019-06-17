@@ -1,0 +1,16 @@
+.admin-list-image {
+    max-width: 100px;
+}
+
+.admin-list-href-image {
+    height: 100%;
+    display: inline-block;
+}
+
+.admin-edit-image {
+    max-width: 600px;
+}
+
+.max-size-img {
+    max-width: 200px;
+}

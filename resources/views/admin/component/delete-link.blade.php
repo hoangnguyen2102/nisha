@@ -1,0 +1,1 @@
+<a href="{{ $link }}" class="btn btn-danger">@lang('label.Delete')</a>
